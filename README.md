@@ -1,8 +1,8 @@
 # Quickly visit any route of your Laravel app
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/laravel-visit.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-visit)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/spatie/laravel-visit/run-tests?label=tests)](https://github.com/spatie/laravel-visit/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/spatie/laravel-visit/Check%20&%20fix%20styling?label=code%20style)](https://github.com/spatie/laravel-visit/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
+[![GitHub Tests Action Status](https://github.com/spatie/laravel-visit/actions/workflows/run-tests.yml/badge.svg)](https://github.com/spatie/laravel-visit/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://github.com/spatie/laravel-visit/actions/workflows/php-cs-fixer.yml/badge.svg)](https://github.com/spatie/laravel-visit/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/spatie/laravel-visit.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-visit)
 
 This package contains an artisan command `visit` that allows you to visit any route of your Laravel app. 
